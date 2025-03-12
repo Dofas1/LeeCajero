@@ -1,0 +1,83 @@
+# POLÍTICA DE PRIVACIDAD - LEECAJERO
+
+**Fecha de última actualización: 11 de marzo de 2025**
+
+## 1. INTRODUCCIÓN
+
+Gracias por utilizar LeeCajero, una aplicación basada en hojas de Excel con macros que permite subir archivos a Dropbox (en adelante, "la Aplicación"). Esta Política de Privacidad está diseñada para informarle sobre nuestras prácticas respecto a la recolección, uso y divulgación de información personal cuando utiliza nuestra Aplicación.
+
+## 2. INFORMACIÓN QUE RECOPILAMOS
+
+### 2.1 Datos proporcionados directamente por el usuario
+- Credenciales de acceso a Dropbox (a través de la API de Dropbox)
+- Archivos y datos que usted elija subir a través de la Aplicación
+- Configuraciones y preferencias de usuario
+
+### 2.2 Datos recopilados automáticamente
+- Información de registro: fecha y hora de uso, errores del sistema
+- Información sobre el dispositivo: sistema operativo, versión de Excel, configuración regional
+- Datos de rendimiento: tiempo de procesamiento, velocidad de carga
+
+## 3. USO DE LA INFORMACIÓN
+
+Utilizamos la información recopilada para:
+- Proporcionar, mantener y mejorar la funcionalidad de LeeCajero
+- Facilitar la transferencia de archivos a Dropbox
+- Diagnosticar problemas técnicos
+- Desarrollar nuevas características basadas en patrones de uso agregados
+- Cumplir con requisitos legales
+
+## 4. ALMACENAMIENTO Y PROTECCIÓN DE DATOS
+
+### 4.1 Almacenamiento local
+La Aplicación almacena ciertos datos localmente en su computadora, incluyendo:
+- Configuraciones temporales
+- Registros de actividad
+- Archivos temporales antes de su carga
+
+### 4.2 Almacenamiento en Dropbox
+- Los archivos que usted elija subir se almacenan en su cuenta de Dropbox
+- No tenemos acceso a estos archivos una vez subidos a su cuenta
+
+### 4.3 Medidas de seguridad
+- No almacenamos sus credenciales de Dropbox, utilizamos tokens de acceso seguros
+- Implementamos cifrado para proteger datos sensibles
+- Realizamos actualizaciones periódicas para mantener la seguridad
+
+## 5. COMPARTICIÓN DE INFORMACIÓN
+
+No compartimos su información personal con terceros, excepto en las siguientes circunstancias:
+- Con Dropbox, en la medida necesaria para permitir la funcionalidad de carga de archivos
+- Cuando sea requerido por ley
+- Para proteger nuestros derechos o propiedad
+
+## 6. SUS DERECHOS DE PRIVACIDAD
+
+Usted tiene derecho a:
+- Acceder a los datos personales que tengamos sobre usted
+- Solicitar la corrección de información inexacta
+- Solicitar la eliminación de sus datos
+- Retirar su consentimiento para el procesamiento de datos
+- Presentar una queja ante la autoridad de protección de datos correspondiente
+
+## 7. RETENCIÓN DE DATOS
+
+Conservamos su información personal solo durante el tiempo necesario para cumplir con los fines establecidos en esta Política de Privacidad, a menos que se requiera o permita un período de retención más largo por ley.
+
+## 8. TRANSFERENCIAS INTERNACIONALES
+
+Como la Aplicación utiliza los servicios de Dropbox, su información puede ser transferida y procesada en países fuera de su país de residencia, donde las leyes de protección de datos pueden ser diferentes.
+
+## 9. CAMBIOS A ESTA POLÍTICA
+
+Podemos actualizar nuestra Política de Privacidad ocasionalmente. Le notificaremos cualquier cambio publicando la nueva Política de Privacidad en nuestra página web y/o mediante una notificación dentro de la Aplicación.
+
+## 10. INFORMACIÓN DE CONTACTO
+
+Si tiene preguntas o comentarios sobre esta Política de Privacidad, por favor contáctenos a:
+
+b.ibarras@gmail.com
+
+## 11. CONSENTIMIENTO
+
+Al utilizar LeeCajero, usted consiente esta Política de Privacidad y el procesamiento de su información como se describe en este documento.
